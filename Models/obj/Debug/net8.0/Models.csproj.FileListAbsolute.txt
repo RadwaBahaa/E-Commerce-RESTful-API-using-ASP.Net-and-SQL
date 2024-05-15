@@ -1,0 +1,24 @@
+E:\ITI\31- ASP.Net\Final Project\Models\bin\Debug\net8.0\Models.deps.json
+E:\ITI\31- ASP.Net\Final Project\Models\bin\Debug\net8.0\Models.dll
+E:\ITI\31- ASP.Net\Final Project\Models\bin\Debug\net8.0\Models.pdb
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\Models.dll
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\refint\Models.dll
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\Models.pdb
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\ref\Models.dll
+E:\ITI\31- ASP.Net\Final Project\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\bin\Debug\net8.0\Models.deps.json
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\bin\Debug\net8.0\Models.dll
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\bin\Debug\net8.0\Models.pdb
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\Models.csproj.AssemblyReference.cache
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\Models.AssemblyInfoInputs.cache
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\Models.AssemblyInfo.cs
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\Models.csproj.CoreCompileInputs.cache
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\Models.dll
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\refint\Models.dll
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\Models.pdb
+E:\ITI\31- ASP.Net\Final Project - Radwa Bahaa\Visual Code\Models\obj\Debug\net8.0\ref\Models.dll
