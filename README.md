@@ -5,38 +5,38 @@ Welcome to the documentation for our E-Commerce RESTful API, built using ASP.Net
 ## 1. Roles Controller
 
 - **GetAllRoles:** View all available roles. (Accessible only to administrators)
-  Endpoint: _/api/Roles/GetAllRoles_
+  `Endpoint: /api/Roles/GetAllRoles`
 
 - **CreateRole:** Create a new role for the roles table. (Accessible only to administrators)
-  Endpoint: _/api/Roles/CreateRole_
+  `Endpoint: /api/Roles/CreateRole`
 
 - **AddRoleToUser:** Add a new role for a specific user based on their name. (Accessible only to administrators)
-  Endpoint: _/api/Roles/AddRoleToUser_
+  `Endpoint: /api/Roles/AddRoleToUser`
 
 ## 2. Account Controller
 
 - **Register:** Register a new user and assign a role in the DTO model.
-  Endpoint: _/api/Account/Register_
+  `Endpoint: /api/Account/Register`
 
 - **Login:** Log in and retrieve an authentication token.
-  Endpoint: _/api/Account/Login_
+  `Endpoint: /api/Account/Login`
 
 ## 3. Categories Controller
 
-- \*\*Create: Create a new category. (Accessible only to administrators)
-  Endpoint: _/api/Categories/Create_
+- `Create`: Create a new category. (Accessible only to administrators)
+  `Endpoint: /api/Categories/Create`
 
-- \*\*GetAll: Retrieve all categories.
-  Endpoint: _/api/Categories/GetAll_
+- `GetAll`: Retrieve all categories.
+  `Endpoint: /api/Categories/GetAll`
 
-- \*\*GetOne: Retrieve a specific category by its ID.
-  Endpoint: _/api/Categories/GetOne/{ID}_
+- `GetOne`: Retrieve a specific category by its ID.
+  `Endpoint: /api/Categories/GetOne/{ID}`
 
-- \*\*Update: Update the name of a category by its ID. (Accessible only to administrators)
-  Endpoint: _/api/Categories/Update/{ID}_
+- `Update`: Update the name of a category by its ID. (Accessible only to administrators)
+  `Endpoint: /api/Categories/Update/{ID}`
 
-- \*\*Delete: Delete a category by its ID. (Accessible only to administrators)
-  Endpoint: _/api/Categories/Delete/{ID}_
+- `Delete`: Delete a category by its ID. (Accessible only to administrators)
+  `Endpoint: /api/Categories/Delete/{ID}`
 
 ## 4. Products Controller
 
